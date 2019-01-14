@@ -26,5 +26,7 @@ public class Coche extends Vehiculo {
 	public void pitar() {
 		System.out.println("piiiiiiiiiiiiiii");
 	}
-
+	public void acelerar() {
+		System.out.println("rrrrruuunnnnn");
+	}
 }
