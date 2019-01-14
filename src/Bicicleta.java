@@ -23,5 +23,8 @@ public class Bicicleta extends Vehiculo{
 		this.piñones=piñones;
 	}
 
+	public void pitar() {
+		System.out.println("piiiiiiiiiiiiiii");
+	}
 
 }
